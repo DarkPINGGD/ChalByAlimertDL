@@ -1,0 +1,21 @@
+{
+    "id": 130,
+    "name": "Noyan Circles",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=9J1Uo3yiZgA",
+    "percentToQualify": 11,
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "songLink": "https://www.youtube.com/watch?v=ah1szLgzhSg",
+    "difficulty": 5,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://www.youtube.com/watch?v=5-yAtcEs97U",
+            "percent": 22,
+            "hz": 60,
+            "mobile": false
+        }
+    ]
+}

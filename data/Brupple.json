@@ -1,0 +1,28 @@
+{
+    "id": 108,
+    "name": "Brupple",
+    "creators": ["Noyan", "Exence"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=rslABbncwcc",
+    "percentToQualify": 15,
+    "song": "ZUN - Bad Apple",
+    "songLink": "https://www.youtube.com/watch?v=9lNZ_Rnr7Jc",
+    "difficulty": 4,
+    "enjoyment": 6,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://medal.tv/tr/games/requested/clips/l5yjhfkL2GqOtr9pQ?invite=cr-MSxKN1IsNDQwMTYzMTcw&v=35",
+            "percent": 100,
+            "hz": 60,
+            "enjoyment": 10
+        },
+        {
+            "user": "Kageyama",
+            "link": "https://www.youtube.com/watch?v=GysppsheQ5s",
+            "percent": 18,
+            "hz": 60,
+            "enjoyment": 6
+        }
+    ]
+}

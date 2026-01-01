@@ -1,0 +1,27 @@
+{
+  "name": "noyansdemonswithupdates",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "generate-api-list": "node ./scripts/generateApiList.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoyanWantsToGameToday/NoyansDemonsWithUpdates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoyanWantsToGameToday/NoyansDemonsWithUpdates/issues"
+  },
+  "homepage": "https://github.com/NoyanWantsToGameToday/NoyansDemonsWithUpdates#readme",
+  "dependencies": {
+    "next": "^15.5.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}

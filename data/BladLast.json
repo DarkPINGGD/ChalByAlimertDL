@@ -1,0 +1,31 @@
+{
+    "id": 106,
+    "name": "BladLast",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=Vf5mWBEtB60",
+    "showcase": "https://www.youtube.com/watch?v=jmGZcvjzI4c",
+    "percentToQualify": 5,
+    "song": "Dimrain47 - At The Speed Of Light",
+    "songLink": "https://www.youtube.com/watch?v=1Zrq8FiKS6A",
+    "difficulty": 8,
+    "enjoyment": 8,
+    "records": [
+        {
+            "user": "alimertgd",
+            "link": "https://www.youtube.com/watch?v=LXIkRl4eXLQ",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false,
+            "enjoyment": 6
+        },
+        {
+            "user": "Exence",
+            "link": "https://medal.tv/games/requested/clips/ld38fgA3bYSw-wV-o?invite=cr-MSxFYTcsNDQwMTYzMTcw",
+            "percent": 77,
+            "hz": 60,
+            "mobile": false,
+            "enjoyment": 7
+        }
+    ]
+}

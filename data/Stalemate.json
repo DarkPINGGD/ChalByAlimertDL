@@ -1,0 +1,22 @@
+{
+    "id": 187,
+    "name": "Stalemate",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/nbjUZGnAqfA?t=22",
+    "percentToQualify": 5,
+    "song": "KzX - Stalemate",
+    "songLink": "https://www.youtube.com/watch?v=IAEU6Ay7Xtk&pp=ygUNc3RhbGVtYXRlIGt6eNIHCQnNCQGHKiGM7w%3D%3D",
+    "difficulty": 6,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://medal.tv/tr/games/requested/clips/lirauycNTvEpelvOn?invite=cr-MSx5SXosNDQwMTYzMTcw&v=25",
+            "percent": 22,
+            "hz": 60,
+            "mobile": false,
+            "enjoyment": 2
+        }
+    ]
+}

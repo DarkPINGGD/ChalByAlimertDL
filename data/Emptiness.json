@@ -1,0 +1,22 @@
+{
+    "id": 166,
+    "name": "Emptiness",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=WAqjKzZY22A",
+    "percentToQualify": 10,
+    "song": "Creo - Flow",
+    "songLink": "https://www.youtube.com/watch?v=MM87r7GjzW8&pp=ygUJY3JvZSBmbG93",
+    "difficulty": 7,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://medal.tv/tr/games/requested/clips/lfvCbTBeO8uHxbaUZ?invite=cr-MSxXamgsNDQwMTYzMTcw&v=53",
+            "percent": 24,
+            "hz": 60,
+            "mobile": false,
+            "enjoyment": 10
+        }
+    ]
+}

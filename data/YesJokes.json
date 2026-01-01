@@ -1,0 +1,21 @@
+{
+    "id": 162,
+    "name": "Yes Jokes",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/4-2Y-P0FdM0",
+    "percentToQualify": 13,
+    "song": "BEST DROP OF ALL TIME",
+    "songLink": "https://www.youtube.com/watch?v=Ih3wcRNmPGQ&pp=ygUVYmVzdCBkcm9wIG9mIGFsbCB0aW1l",
+    "difficulty": 5,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://www.youtube.com/watch?v=fFzz03N4IDw",
+            "percent": 9,
+            "hz": 60,
+            "mobile": false
+        }
+    ]
+}

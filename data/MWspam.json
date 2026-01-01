@@ -1,0 +1,20 @@
+{
+    "id": 167,
+    "name": "MWSpam",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/q5ukbi_O6Yw",
+    "percentToQualify": 12,
+    "song": "Isolation - Nighthawk22 Remix",
+    "songLink": "https://www.youtube.com/watch?v=lNjVd00zKDE",
+    "difficulty": 1,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://www.youtube.com/watch?v=ymjZld-qjaE",
+            "percent": 31,
+            "hz": "60"
+        }
+    ]
+}

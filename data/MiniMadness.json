@@ -1,0 +1,22 @@
+{
+    "id": 145,
+    "name": "Mini Madness",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=3_X1VsGr_HA",
+    "percentToQualify": 31,
+    "song": "Forever Bound - Stereo Madness",
+    "songLink": "https://www.youtube.com/watch?v=JhKyKEDxo8Q",
+    "difficulty": 1,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://www.youtube.com/watch?v=LytwX00LWaM",
+            "percent": 100,
+            "hz": 60,
+            "mobile": false,
+            "enjoyment": 10
+        }
+    ]
+}

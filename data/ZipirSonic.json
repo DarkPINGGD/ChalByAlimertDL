@@ -1,0 +1,21 @@
+{
+    "id": 224,
+    "name": "ZipirSonic",
+    "creators": ["alimertgd"],
+    "verifier": "alimertgd",
+    "verification": "https://youtu.be/S6OjzzRXCIY",
+    "percentToQualify": "13",
+    "song": "SpeedBreaker",
+    "songLink": "https://www.youtube.com/watch?v=Ee613I-AOFI",
+    "difficulty": 5,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
+            "mobile": false
+        }
+    ]
+}

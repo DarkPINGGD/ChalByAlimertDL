@@ -1,0 +1,30 @@
+{
+    "id": 123,
+    "name": "Bloodworks",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=8O3E0ZpBzqQ",
+    "percentToQualify": 21,
+    "song": "Crim3s - L0st (XVA Remix)",
+    "songLink": "https://www.youtube.com/watch?v=I-Brjao7tR8",
+    "difficulty": 9,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "alimertgd",
+            "link": "https://www.youtube.com/watch?v=VHaY2Y5UUmM",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false,
+            "enjoyment": 9
+        },
+        {
+            "user": "Exence",
+            "link": "https://medal.tv/tr/games/requested/clips/lir2VCRXCPhkZoTKP?invite=cr-MSxkOW4sNDQwMTYzMTcw&v=41",
+            "percent": 27,
+            "hz": 60,
+            "mobile": false,
+            "enjoyment": 5
+        }
+    ]
+}

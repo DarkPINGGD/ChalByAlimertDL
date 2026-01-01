@@ -1,0 +1,30 @@
+{
+    "id": 205,
+    "name": "BladLast Unnerfed",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/AmxbOOt0JnM?t=12140",
+    "percentToQualify": 11,
+    "song": "Dimrain47 - At The Speed Of Light",
+    "songLink": "https://www.youtube.com/watch?v=1Zrq8FiKS6A",
+    "difficulty": 10,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "alimertgd",
+            "link": "https://www.youtube.com/watch?v=Cp1Ib0Jj5Wg",
+            "percent": 100,
+            "hz": 240,
+            "mobile": false,
+            "enjoyment": 6
+        },
+        {
+            "user": "Exence",
+            "link": "https://medal.tv/tr/games/requested/clips/lfvU8BbifedMoGWro?invite=cr-MSxvVjQsNDQwMTYzMTcw&v=37",
+            "percent": 57,
+            "hz": 60,
+            "mobile": false,
+            "enjoyment": 4
+        }
+    ]
+}

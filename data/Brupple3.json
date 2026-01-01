@@ -1,0 +1,22 @@
+{
+    "id": 161,
+    "name": "Brupple 3",
+    "creators": ["Exence"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/K0BTWAXgNVk?t=1100",
+    "percentToQualify": 8,
+    "song": "ZUN - Bad Apple",
+    "songLink": "https://www.youtube.com/watch?v=9lNZ_Rnr7Jc",
+    "difficulty": 8,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://youtu.be/Y60B_EGB15M?t=93",
+            "percent": 40,
+            "hz": 120,
+            "mobile": false,
+            "enjoyment": 8
+        }
+    ]
+}

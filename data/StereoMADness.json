@@ -1,0 +1,21 @@
+{
+    "id": 109,
+    "name": "Stereo MADness",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=vWW-nusThiI",
+    "percentToQualify": 4,
+    "song": "Forever Bound - Stereo Madness",
+    "songLink": "https://www.youtube.com/watch?v=JhKyKEDxo8Q&pp=ygUOc3RlcmVvIG1hZG5lc3M%3D",
+    "difficulty": 8,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://medal.tv/tr/games/requested/clips/leLAOm7XrdxAczRnD?invite=cr-MSw5OXgsNDQwMTYzMTcw",
+            "percent": 37,
+            "hz": 240,
+            "mobile": false
+        }
+    ]
+}

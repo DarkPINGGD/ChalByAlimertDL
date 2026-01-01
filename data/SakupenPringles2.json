@@ -1,0 +1,20 @@
+{
+    "id": 237,
+    "name": "Sakupen Pringles 2",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/1zs9VdOJCRc",
+    "percentToQualify": 16,
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "songLink": "https://www.youtube.com/watch?v=ah1szLgzhSg",
+    "difficulty": 8,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}

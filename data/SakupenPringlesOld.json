@@ -1,0 +1,21 @@
+{
+    "id": 150,
+    "name": "Sakupen Pringles Old",
+    "creators": ["Noyan", "Astro"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=fUYUAL9PSvM",
+    "showcase": "https://www.youtube.com/watch?v=BUzRt64LoLM",
+    "percentToQualify": 20,
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "songLink": "https://www.youtube.com/watch?v=ah1szLgzhSg",
+    "difficulty": 8,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0
+        }
+    ]
+}

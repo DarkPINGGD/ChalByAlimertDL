@@ -1,0 +1,124 @@
+[
+	{
+		"name": "Former TOP1's 1",
+		"difficulty": 7,
+		"levels": [
+            "DeepThinking",
+            "BladLastUnnerfed",
+            "BloodworksOld",
+            "Bloodworks",
+            "Archon"
+		]
+	},
+    {
+        "name": "Former TOP1's 2",
+        "difficulty": 5,
+        "levels": [
+        	"SakupenPringles",
+			"StereoMADness",
+			"BladLast"
+        ]
+    },
+    {
+        "name": "Pointercrate Knock-Offs 1",
+        "difficulty": 6,
+        "levels": [
+            "SilentStep",
+            "YesJokes",
+            "BladLast"
+        ]
+    },
+    {
+        "name": "Pointercrate Knock-Offs 2",
+        "difficulty": 7,
+        "levels": [
+            "SakupenPringles2",
+            "Emptiness",
+            "Cosmos",
+            "Dimension"
+        ]
+    },
+    {
+        "name": "Pointercrate Knock-Offs 3",
+        "difficulty": 7,
+        "levels": [
+            "Archon",
+            "StereoMADness",
+            "Bloodworks"
+        ]
+    },
+    {
+        "name": "Pointercrate Knock-Offs 4",
+        "difficulty": 6,
+        "levels": [
+            "EternalEclipse",
+	        "OnlyBeginning",
+            "VeinsOfRuin"
+        ]
+    },
+    {
+        "name": "Pointercrate Knock-Offs 1",
+        "difficulty": 8,
+        "levels": [
+            "ForgottenCircles",
+            "BladLastUnnerfed",
+            "BloodworksOld",
+            "DeepThinking"
+        ]
+    },
+    {
+        "name": "Exence Pack",
+        "difficulty": 8,
+        "levels": [
+            "Catastroveil",
+            "HELLSDANCE",
+            "Brupple",
+            "DarkMatter",
+            "Brupple2",
+            "MiniMadness"
+        ]
+    },
+    {
+        "name": "Short Levels 1",
+        "difficulty": 5,
+        "levels": [
+            "OnlyBeginning",
+            "MWspam",
+            "NoyanCircles",
+            "Brupple",
+            "OrdinaryMatter",
+            "MiniMadness"
+        ]
+    },
+    {
+        "name": "Short Levels 2",
+        "difficulty": 5,
+        "levels": [
+            "Catastroveil",
+            "HELLSDANCE",
+            "Brupple2",
+            "Endingver"
+        ]
+    },
+    {
+        "name": "Wave Only",
+        "difficulty": 5,
+        "levels": [
+            "HELLSDANCE",
+            "Endingver",
+            "MWspam",
+            "MiniMadness"
+        ]
+    },
+    {
+        "name": "Legacy List",
+        "difficulty": 6,
+        "levels": [
+            "BladLast",
+            "StereoMADness",
+            "Brupple",
+            "HELLSDANCE"
+        ]
+    }
+]
+

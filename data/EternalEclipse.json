@@ -1,0 +1,22 @@
+{
+    "id": 193,
+    "name": "Eternal Eclipse",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=1SuvBg3Wv38",
+    "percentToQualify": 4,
+    "song": "dj-Nate - Thermodynamix",
+    "songLink": "https://www.youtube.com/watch?v=QUFIGUBrN3M",
+    "difficulty": 7,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
+            "mobile": false,
+            "enjoyment": 0
+        }
+    ]
+}

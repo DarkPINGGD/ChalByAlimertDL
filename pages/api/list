@@ -1,0 +1,666 @@
+[
+  {
+    "id": "The-Last-Embrace-216",
+    "name": "The Last Embrace",
+    "position": 1,
+    "publisher_id": null,
+    "points": 10000,
+    "legacy": false,
+    "level_id": 216,
+    "two_player": false,
+    "tags": [
+      "10",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/3DXGZnh4zXg?t=3343",
+    "song": "KzX - Stalemate",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Deep-Thinking-203",
+    "name": "Deep Thinking",
+    "position": 2,
+    "publisher_id": null,
+    "points": 9000,
+    "legacy": false,
+    "level_id": 203,
+    "two_player": false,
+    "tags": [
+      "9",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/CaF16YbZWYc?t=3352",
+    "song": "MaelouX - Nuke Powder",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Forgotten-Circles-221",
+    "name": "Forgotten Circles",
+    "position": 3,
+    "publisher_id": null,
+    "points": 9000,
+    "legacy": false,
+    "level_id": 221,
+    "two_player": false,
+    "tags": [
+      "9",
+      "Noyan",
+      "Bliss"
+    ],
+    "description": "https://www.youtube.com/watch?v=u3149E4Nx8g",
+    "song": "When You Find Me - plenka",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Bloodworks-123",
+    "name": "Bloodworks",
+    "position": 4,
+    "publisher_id": null,
+    "points": 9000,
+    "legacy": false,
+    "level_id": 123,
+    "two_player": false,
+    "tags": [
+      "9",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=8O3E0ZpBzqQ",
+    "song": "Crim3s - L0st (XVA Remix)",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Sakupen-Pringles-Old-150",
+    "name": "Sakupen Pringles Old",
+    "position": 5,
+    "publisher_id": null,
+    "points": 8000,
+    "legacy": false,
+    "level_id": 150,
+    "two_player": false,
+    "tags": [
+      "8",
+      "Noyan",
+      "Astro"
+    ],
+    "description": "https://www.youtube.com/watch?v=fUYUAL9PSvM",
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "BladLast-Unnerfed-205",
+    "name": "BladLast Unnerfed",
+    "position": 6,
+    "publisher_id": null,
+    "points": 10000,
+    "legacy": false,
+    "level_id": 205,
+    "two_player": false,
+    "tags": [
+      "10",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/AmxbOOt0JnM?t=12140",
+    "song": "Dimrain47 - At The Speed Of Light",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Archon-175",
+    "name": "Archon",
+    "position": 7,
+    "publisher_id": null,
+    "points": 8000,
+    "legacy": false,
+    "level_id": 175,
+    "two_player": false,
+    "tags": [
+      "8",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=GuZx3BsZPCc",
+    "song": "dj-Nate - Thermodynamix",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Stereo-MADness-109",
+    "name": "Stereo MADness",
+    "position": 8,
+    "publisher_id": null,
+    "points": 8000,
+    "legacy": false,
+    "level_id": 109,
+    "two_player": false,
+    "tags": [
+      "8",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=vWW-nusThiI",
+    "song": "Forever Bound - Stereo Madness",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Brupple-3-161",
+    "name": "Brupple 3",
+    "position": 9,
+    "publisher_id": null,
+    "points": 8000,
+    "legacy": false,
+    "level_id": 161,
+    "two_player": false,
+    "tags": [
+      "8",
+      "Exence"
+    ],
+    "description": "https://youtu.be/K0BTWAXgNVk?t=1100",
+    "song": "ZUN - Bad Apple",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "BladLast-106",
+    "name": "BladLast",
+    "position": 10,
+    "publisher_id": null,
+    "points": 8000,
+    "legacy": false,
+    "level_id": 106,
+    "two_player": false,
+    "tags": [
+      "8",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=Vf5mWBEtB60",
+    "song": "Dimrain47 - At The Speed Of Light",
+    "edel_enjoyment": 8,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Rambunctious-214",
+    "name": "Rambunctious",
+    "position": 11,
+    "publisher_id": null,
+    "points": 7000,
+    "legacy": false,
+    "level_id": 214,
+    "two_player": false,
+    "tags": [
+      "7",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/-XrrROyc4IA",
+    "song": "Rambunctious - Forsaken Remix",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Emptiness-166",
+    "name": "Emptiness",
+    "position": 12,
+    "publisher_id": null,
+    "points": 7000,
+    "legacy": false,
+    "level_id": 166,
+    "two_player": false,
+    "tags": [
+      "7",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=WAqjKzZY22A",
+    "song": "Creo - Flow",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Bloodworks-(Old)-184",
+    "name": "Bloodworks (Old)",
+    "position": 13,
+    "publisher_id": null,
+    "points": 7000,
+    "legacy": false,
+    "level_id": 184,
+    "two_player": false,
+    "tags": [
+      "7",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=T7yBDai_l2M",
+    "song": "Crim3s - L0st (XVA Remix)",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Dimension-168",
+    "name": "Dimension",
+    "position": 14,
+    "publisher_id": null,
+    "points": 7000,
+    "legacy": false,
+    "level_id": 168,
+    "two_player": false,
+    "tags": [
+      "7",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=dFosGEnTPqk",
+    "song": "Creo - Dimension",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Sakupen-Pringles-150",
+    "name": "Sakupen Pringles",
+    "position": 15,
+    "publisher_id": null,
+    "points": 7000,
+    "legacy": false,
+    "level_id": 150,
+    "two_player": false,
+    "tags": [
+      "7",
+      "Noyan",
+      "Astro"
+    ],
+    "description": "https://www.youtube.com/watch?v=MTxAiSI1owQ",
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Eternal-Eclipse-193",
+    "name": "Eternal Eclipse",
+    "position": 16,
+    "publisher_id": null,
+    "points": 7000,
+    "legacy": false,
+    "level_id": 193,
+    "two_player": false,
+    "tags": [
+      "7",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=1SuvBg3Wv38",
+    "song": "dj-Nate - Thermodynamix",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Ending-Ver-170",
+    "name": "Ending Ver",
+    "position": 17,
+    "publisher_id": null,
+    "points": 6000,
+    "legacy": false,
+    "level_id": 170,
+    "two_player": false,
+    "tags": [
+      "6",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/DV3MZIb_2i0",
+    "song": "Slaughterhouse (XVA Remix)",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Stalemate-187",
+    "name": "Stalemate",
+    "position": 18,
+    "publisher_id": null,
+    "points": 6000,
+    "legacy": false,
+    "level_id": 187,
+    "two_player": false,
+    "tags": [
+      "6",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/nbjUZGnAqfA?t=22",
+    "song": "KzX - Stalemate",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Ordinary-Matter-180",
+    "name": "Ordinary Matter",
+    "position": 19,
+    "publisher_id": null,
+    "points": 5000,
+    "legacy": false,
+    "level_id": 180,
+    "two_player": false,
+    "tags": [
+      "5",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=-51GFmDp4tA",
+    "song": "HexHammer - Dark Matter",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "ZipirSonic-224",
+    "name": "ZipirSonic",
+    "position": 20,
+    "publisher_id": null,
+    "points": 5000,
+    "legacy": false,
+    "level_id": 224,
+    "two_player": false,
+    "tags": [
+      "5",
+      "alimertgd"
+    ],
+    "description": "https://youtu.be/S6OjzzRXCIY",
+    "song": "SpeedBreaker",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Veins-Of-Ruin-188",
+    "name": "Veins Of Ruin",
+    "position": 21,
+    "publisher_id": null,
+    "points": 4000,
+    "legacy": false,
+    "level_id": 188,
+    "two_player": false,
+    "tags": [
+      "4",
+      "Noyan"
+    ],
+    "description": "https://youtube.com/watch?v=8c0tuKr2RIQ",
+    "song": "Dimrain47 - At The Speed Of Light",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Silent-Step-165",
+    "name": "Silent Step",
+    "position": 22,
+    "publisher_id": null,
+    "points": 5000,
+    "legacy": false,
+    "level_id": 165,
+    "two_player": false,
+    "tags": [
+      "5",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=7W6MPMzy_TI",
+    "song": "Clubstep",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Cosmos-178",
+    "name": "Cosmos",
+    "position": 23,
+    "publisher_id": null,
+    "points": 5000,
+    "legacy": false,
+    "level_id": 178,
+    "two_player": false,
+    "tags": [
+      "5",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=YNySedZSTyY",
+    "song": "ΔXIUS LIИK - Кøсмøс",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Yes-Jokes-162",
+    "name": "Yes Jokes",
+    "position": 24,
+    "publisher_id": null,
+    "points": 5000,
+    "legacy": false,
+    "level_id": 162,
+    "two_player": false,
+    "tags": [
+      "5",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/4-2Y-P0FdM0",
+    "song": "BEST DROP OF ALL TIME",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Noyan-Circles-130",
+    "name": "Noyan Circles",
+    "position": 25,
+    "publisher_id": null,
+    "points": 5000,
+    "legacy": false,
+    "level_id": 130,
+    "two_player": false,
+    "tags": [
+      "5",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=9J1Uo3yiZgA",
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Brupple-108",
+    "name": "Brupple",
+    "position": 26,
+    "publisher_id": null,
+    "points": 4000,
+    "legacy": false,
+    "level_id": 108,
+    "two_player": false,
+    "tags": [
+      "4",
+      "Noyan",
+      "Exence"
+    ],
+    "description": "https://www.youtube.com/watch?v=rslABbncwcc",
+    "song": "ZUN - Bad Apple",
+    "edel_enjoyment": 6,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Only-Beginning-189",
+    "name": "Only Beginning",
+    "position": 27,
+    "publisher_id": null,
+    "points": 4000,
+    "legacy": false,
+    "level_id": 189,
+    "two_player": false,
+    "tags": [
+      "4",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=arnwGpWViEM",
+    "song": "Dimrain47 - Every End...",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Dark-Matter-196",
+    "name": "Dark Matter",
+    "position": 28,
+    "publisher_id": null,
+    "points": 3000,
+    "legacy": false,
+    "level_id": 196,
+    "two_player": false,
+    "tags": [
+      "3",
+      "Noyan"
+    ],
+    "description": "https://youtube.com/watch?v=qMEde97lsns?t=192",
+    "song": "HexHammer - Dark Matter",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Brupple-2-142",
+    "name": "Brupple 2",
+    "position": 29,
+    "publisher_id": null,
+    "points": 2000,
+    "legacy": false,
+    "level_id": 142,
+    "two_player": false,
+    "tags": [
+      "2",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/9jvjET2zPjQ?t=782",
+    "song": "ZUN - Bad Apple",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Catastroveil-147",
+    "name": "Catastroveil",
+    "position": 30,
+    "publisher_id": null,
+    "points": 2000,
+    "legacy": false,
+    "level_id": 147,
+    "two_player": false,
+    "tags": [
+      "2",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=8Dqw9alVGDE",
+    "song": "Dimrain47 - At The Speed Of Light",
+    "edel_enjoyment": 7,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "MWSpam-167",
+    "name": "MWSpam",
+    "position": 31,
+    "publisher_id": null,
+    "points": 1000,
+    "legacy": false,
+    "level_id": 167,
+    "two_player": false,
+    "tags": [
+      "1",
+      "Noyan"
+    ],
+    "description": "https://youtu.be/q5ukbi_O6Yw",
+    "song": "Isolation - Nighthawk22 Remix",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Mini-Madness-145",
+    "name": "Mini Madness",
+    "position": 32,
+    "publisher_id": null,
+    "points": 1000,
+    "legacy": false,
+    "level_id": 145,
+    "two_player": false,
+    "tags": [
+      "1",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=3_X1VsGr_HA",
+    "song": "Forever Bound - Stereo Madness",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  },
+  {
+    "id": "Hell's-Dance-110",
+    "name": "Hell's Dance",
+    "position": 33,
+    "publisher_id": null,
+    "points": 1000,
+    "legacy": false,
+    "level_id": 110,
+    "two_player": false,
+    "tags": [
+      "1",
+      "Noyan"
+    ],
+    "description": "https://www.youtube.com/watch?v=AbhXCsMmT0s",
+    "song": "Gangsta's Paradise X Sakupen Circles",
+    "edel_enjoyment": 10,
+    "is_edel_pending": false,
+    "gddl_tier": null,
+    "nlw_tier": null
+  }
+]

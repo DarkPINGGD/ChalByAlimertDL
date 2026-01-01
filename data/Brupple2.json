@@ -1,0 +1,22 @@
+{
+    "id": 142,
+    "name": "Brupple 2",
+    "creators": ["Noyan"],
+    "verifier": "Exence",
+    "verification": "https://youtu.be/9jvjET2zPjQ?t=782",
+    "percentToQualify": 28,
+    "song": "ZUN - Bad Apple",
+    "songLink": "https://www.youtube.com/watch?v=FtutLA63Cp8",
+    "difficulty": 2,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Noyan",
+            "link": "https://www.youtube.com/watch?v=2AHPyLllBJU",
+            "percent": 100,
+            "hz": "60",
+            "mobile": false,
+            "enjoyment": 10
+        }
+    ]
+}
